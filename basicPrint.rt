@@ -1,0 +1,8 @@
+
+a = 10
+b = 20
+println(a)
+print("Hello ")
+println("World!")
+println(b)
+println(30)
